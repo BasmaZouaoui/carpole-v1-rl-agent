@@ -43,7 +43,7 @@ The CartPole problem requires keeping a pole balanced on a movable cart by apply
 
 ## 📊 Results: 
 
-https://github.com/BasmaZouaoui/carpole-v1-rl-agent/blob/main/training_results.png
+<img width="4460" height="2965" alt="training_results (1)" src="https://github.com/user-attachments/assets/3fe9e13a-258f-45d8-970b-40b0652ec2ac" />
 
 **Performance Achieved:**
 - **Final Average Reward**: 199.6 (✅ Environment Solved!)
