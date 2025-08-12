@@ -59,7 +59,7 @@ pip install gymnasium numpy torch matplotlib imageio
 ```
 
 ### Running the Training
-Open and run the Jupyter notebook (`training.ipynb`). The training will:
+Open and run the Jupyter notebook (`cartpole-training.ipynb`). The training will:
 1. Train the agent for up to 500 episodes
 2. Display progress every 50 episodes  
 3. Generate visualization plots
